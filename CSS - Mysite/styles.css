@@ -1,0 +1,153 @@
+body{
+    margin: 0px;
+    text-align: center;
+    top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+}
+
+
+
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color: #609966;
+
+}
+
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    color: #609966;
+    font-weight: normal;
+    line-height: 2;
+}
+
+h3{
+    font-family: 'Merriweather', serif;
+    color: #609966;
+}
+
+
+.top-container{
+    background-color: #EDF1D6;
+    position: relative;
+    padding-top: 50px;
+    
+}
+
+.top-cloud{
+    position: absolute;
+    right: 450px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+
+    
+}
+
+.women{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+
+a{
+    color: #609966;
+    font-family: 'Merriweather', serif;
+    margin: 10px;
+}
+
+p{
+    color: #40514E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.skill-row{
+    margin: auto;
+    margin: 50px auto 50px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+   
+}
+
+.python-skill{
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 5px;
+    width: 20%;
+}
+
+.photoshop-skill{
+    float: right;
+    margin-left: 30px;
+    width: 20%;
+    
+}
+
+.llustrator-skill{
+    float: left;
+    margin-right: 30px;
+    width: 20%;
+    
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #609966;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 70px;
+
+  }
+  
+  .btn:hover {
+    background: #9DC08B;
+    text-decoration: none;
+    
+}
+
+.bottom-container{
+    background-color: #9DC08B;
+    padding-top: 20px;
+    margin-top: 20px;
+    position: relative;
+    top: 20px;
+
+}
+
+hr{
+    border-style: dotted none none none;
+    width: 8%;
+    border-width: 10px;
+    border-color: #d7dada;
+}
+
+.cont{
+    margin-bottom: 30px;
+}
+
+.cc{
+    color: #EAF6F6;
+    padding-bottom: 10px;
+}
+
+.middle-container{
+    padding-top: 10px;
+}
+
+.myinfo{
+    padding-bottom: 50px;
+    width: 60%;
+    margin: auto;
+}
